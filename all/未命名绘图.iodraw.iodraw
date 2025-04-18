@@ -166,7 +166,7 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-328" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=13.06;notch=0;rotation=180;fillColor=#000000;strokeWidth=3;direction=west;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="768" y="802" width="114" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-330" value="To detector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-330" value="To detector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="886" y="796" width="124" height="30" as="geometry" />
         </mxCell>
       </root>
