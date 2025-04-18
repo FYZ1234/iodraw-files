@@ -130,9 +130,6 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-318" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-316" target="Up00aZF9IcshU__NEjj3-317">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-321" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-316" target="Up00aZF9IcshU__NEjj3-258">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-316" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="590" y="777" width="66" height="66" as="geometry" />
         </mxCell>
@@ -144,6 +141,12 @@
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-320" value="&amp;nbsp;nonlinear cancellation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="705" y="844" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Up00aZF9IcshU__NEjj3-322" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="670" as="sourcePoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
