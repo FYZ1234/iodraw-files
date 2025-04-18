@@ -52,10 +52,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-259" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=13.06;notch=0;rotation=-180;fillColor=#000000;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="568" y="604" width="196" height="14" as="geometry" />
+          <mxGeometry x="541" y="604" width="196" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-261" value="Transmit data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="598" width="90" height="30" as="geometry" />
+          <mxGeometry x="743" y="598" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-264" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="29" y="775" width="50" height="40" as="geometry" />
@@ -91,8 +91,8 @@
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-293" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="483.0000000000002" y="611.0000000000002" as="sourcePoint" />
-            <mxPoint x="441" y="611" as="targetPoint" />
+            <mxPoint x="474.0000000000002" y="611.0000000000002" as="sourcePoint" />
+            <mxPoint x="432" y="611" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-295" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Up00aZF9IcshU__NEjj3-235">
@@ -122,7 +122,7 @@
           <mxGeometry x="364" y="578" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-305" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="488" y="579" width="66" height="66" as="geometry" />
+          <mxGeometry x="470" y="578" width="66" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
