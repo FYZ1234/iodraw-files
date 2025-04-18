@@ -130,6 +130,9 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-312" value="LNA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="888" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Up00aZF9IcshU__NEjj3-313" value="IQ Mixer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="888" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
