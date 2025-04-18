@@ -55,7 +55,7 @@
           <mxGeometry x="681" y="604" width="196" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-261" value="Transmit data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="883" y="598" width="117" height="30" as="geometry" />
+          <mxGeometry x="883" y="596" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-264" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="727" width="50" height="40" as="geometry" />
