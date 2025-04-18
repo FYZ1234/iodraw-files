@@ -115,6 +115,9 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-300" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="615" y="823.5" width="66" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="Up00aZF9IcshU__NEjj3-301" value="" style="triangle;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="145" y="575" width="56" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
