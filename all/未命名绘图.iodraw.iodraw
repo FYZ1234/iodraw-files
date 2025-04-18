@@ -134,10 +134,10 @@
           <mxGeometry x="841" y="777" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-319" value="Linear SIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="720" y="842.5" width="74" height="30" as="geometry" />
+          <mxGeometry x="727" y="842.5" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-320" value="&amp;nbsp;nonlinear cancellation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="845" y="844" width="60" height="30" as="geometry" />
+        <mxCell id="Up00aZF9IcshU__NEjj3-320" value="Nonlinear SIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="845" y="844" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-322" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;strokeWidth=3;fontSize=15;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
