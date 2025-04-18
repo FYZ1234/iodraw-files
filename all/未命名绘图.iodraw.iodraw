@@ -59,10 +59,7 @@
           <mxGeometry x="568" y="604" width="196" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-261" value="Transmit data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="610" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-262" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-261" target="Up00aZF9IcshU__NEjj3-261">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="770" y="598" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
