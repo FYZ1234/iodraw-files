@@ -142,8 +142,8 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-317" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="701" y="777" width="66" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-319" value="ADC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="492" y="850" width="60" height="30" as="geometry" />
+        <mxCell id="Up00aZF9IcshU__NEjj3-319" value="Linear cancellation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="593" y="842.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
