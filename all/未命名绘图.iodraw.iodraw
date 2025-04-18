@@ -21,6 +21,9 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-232" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="488" y="824" width="66" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="Up00aZF9IcshU__NEjj3-302" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-235" target="Up00aZF9IcshU__NEjj3-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-235" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="244" y="576" width="76" height="71" as="geometry" />
         </mxCell>
@@ -111,7 +114,7 @@
           <mxGeometry x="615" y="823.5" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-301" value="" style="triangle;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="146" y="575" width="56" height="76" as="geometry" />
+          <mxGeometry x="146" y="574" width="56" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
