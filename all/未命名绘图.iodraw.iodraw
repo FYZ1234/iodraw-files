@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-342" value="SI channel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="20" y="604" width="60" height="80" as="geometry" />
+          <mxGeometry x="40" y="580" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
