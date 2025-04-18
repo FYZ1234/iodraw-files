@@ -145,6 +145,9 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-319" value="Linear cancellation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="593" y="842.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Up00aZF9IcshU__NEjj3-320" value="Linear cancellation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="704" y="846" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
