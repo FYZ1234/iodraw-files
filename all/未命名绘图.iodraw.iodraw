@@ -31,6 +31,9 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-243" value="IQ Mixer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="660" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Up00aZF9IcshU__NEjj3-244" value="PA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
