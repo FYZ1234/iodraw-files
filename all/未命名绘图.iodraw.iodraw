@@ -130,7 +130,7 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-316" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LS&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="730" y="777" width="66" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-317" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TACTIC&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-317" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;TACTIC&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="841" y="777" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-319" value="Linear cancellation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
