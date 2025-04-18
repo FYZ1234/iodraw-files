@@ -37,9 +37,6 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-245" value="DAC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="660" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-248" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="179" y="615" width="160" height="10" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
