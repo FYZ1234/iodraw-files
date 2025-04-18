@@ -8,7 +8,7 @@
           <mxGeometry x="950" y="730" width="1142" height="136" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-40" value="Receive Chain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="452" y="886" width="1348" height="129" as="geometry" />
+          <mxGeometry x="460" y="876" width="1348" height="129" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-41" value="Transmit Antenna" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="886" width="205" height="119" as="geometry" />
