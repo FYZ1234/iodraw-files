@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vUdklFq8Khsz0ANSwT5O">
-    <mxGraphModel dx="4664" dy="2652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2332" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Up00aZF9IcshU__NEjj3-67" value="Receive Chain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1935" y="1030" width="1860" height="471" as="geometry" />
+          <mxGeometry x="360" y="1560" width="1860" height="471" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-68" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="1107" width="1495" height="198" as="geometry" />
@@ -35,34 +35,34 @@
           <mxGeometry x="1681" y="1172" width="178" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-77" value="BPF" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="1159" width="75" height="75" as="geometry" />
+          <mxGeometry x="385" y="1689" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-78" value="LNA" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="1158" width="77" height="77" as="geometry" />
+          <mxGeometry x="510" y="1688" width="77" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-79" value="IQ Mixer" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2212" y="1142" width="108" height="108" as="geometry" />
+          <mxGeometry x="637" y="1672" width="108" height="108" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-80" value="LPF" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2370" y="1159" width="74" height="74" as="geometry" />
+          <mxGeometry x="795" y="1689" width="74" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-81" value="ADC" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2494" y="1157" width="78" height="78" as="geometry" />
+          <mxGeometry x="919" y="1687" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-82" value="y(n)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2623" y="1172" width="59" height="49" as="geometry" />
+          <mxGeometry x="1048" y="1702" width="59" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-83" value="Digital Linear Cancellation" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2732" y="1084" width="239" height="239" as="geometry" />
+          <mxGeometry x="1157" y="1614" width="239" height="239" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-84" value="Nonlinear Model (e.g., TACTIC)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3074" y="1238" width="227" height="227" as="geometry" />
+          <mxGeometry x="1499" y="1768" width="227" height="227" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-85" value="Σ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3154" y="1065" width="69" height="49" as="geometry" />
+          <mxGeometry x="1579" y="1595" width="69" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-86" value="y_clean(n) = y(n) - ŷ_SI(n)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3405" y="1065" width="247" height="49" as="geometry" />
+          <mxGeometry x="1830" y="1595" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-87" value="Transmit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="464" y="1340" width="123" height="49" as="geometry" />
@@ -71,16 +71,16 @@
           <mxGeometry x="467" y="1439" width="115" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-89" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3188" y="1164" as="geometry" />
+          <mxGeometry x="1613" y="1694" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-90" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3529" y="1186" as="geometry" />
+          <mxGeometry x="1954" y="1716" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-91" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3529" y="1303" as="geometry" />
+          <mxGeometry x="1954" y="1833" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-92" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3769" y="1352" as="geometry" />
+          <mxGeometry x="2194" y="1882" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-69" target="Up00aZF9IcshU__NEjj3-70">
           <mxGeometry relative="1" as="geometry">
@@ -152,64 +152,64 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.47;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-82" target="Up00aZF9IcshU__NEjj3-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2707" y="1196" />
+              <mxPoint x="1132" y="1726" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-83" target="Up00aZF9IcshU__NEjj3-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3022" y="1288" />
+              <mxPoint x="1447" y="1818" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-108" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.38;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-83" target="Up00aZF9IcshU__NEjj3-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3022" y="1164" />
+              <mxPoint x="1447" y="1694" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-109" value="y_SI(n)" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=-Infinity;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-89" target="Up00aZF9IcshU__NEjj3-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3353" y="1164" />
+              <mxPoint x="1778" y="1694" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-Infinity;exitY=-Infinity;entryX=1;entryY=0.5;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-90" target="Up00aZF9IcshU__NEjj3-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3353" y="1203" />
+              <mxPoint x="1778" y="1733" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-111" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.35;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-84" target="Up00aZF9IcshU__NEjj3-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3353" y="1303" />
+              <mxPoint x="1778" y="1833" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-112" value="ŷ_non(n)" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=-Infinity;entryX=Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-91" target="Up00aZF9IcshU__NEjj3-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3711" y="1303" />
+              <mxPoint x="2136" y="1833" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=Infinity;exitY=Infinity;entryX=1;entryY=0.7;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-92" target="Up00aZF9IcshU__NEjj3-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3711" y="1416" />
-              <mxPoint x="3353" y="1416" />
+              <mxPoint x="2136" y="1946" />
+              <mxPoint x="1778" y="1946" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-114" value="y_SI(n)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.91;entryY=1;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-84" target="Up00aZF9IcshU__NEjj3-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3022" y="1411" />
+              <mxPoint x="1447" y="1941" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -224,7 +224,7 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-116" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.17;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-83" target="Up00aZF9IcshU__NEjj3-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3022" y="1089" />
+              <mxPoint x="1447" y="1619" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -232,9 +232,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-119" value="Draw a block diagram of a full-duplex transceiver with digital self-interference cancellation (DSIC), structured as follows:&#xa;&#xa;&#xa;Top layer: Transmit Chain&#xa;&#xa;&#xa;Label: &quot;Transmit Chain&quot;&#xa;&#xa;&#xa;Flow from left to right:&#xa;&#xa;&#xa;&quot;OFDM Baseband Signal&quot;&#xa;&#xa;&#xa;Arrow to: &quot;x(n)&quot;&#xa;&#xa;&#xa;&quot;DAC&quot;&#xa;&#xa;&#xa;&quot;LPF&quot;&#xa;&#xa;&#xa;&quot;IQ Mixer&quot;&#xa;&#xa;&#xa;&quot;PA&quot;&#xa;&#xa;&#xa;&quot;Transmit Antenna&quot;&#xa;&#xa;&#xa;Self-Interference Path:&#xa;&#xa;&#xa;From &quot;Transmit Antenna&quot; to &quot;Receive Antenna&quot;&#xa;&#xa;&#xa;Use a dashed arrow, labeled &quot;Self-Interference&quot;&#xa;&#xa;&#xa;Bottom layer: Receive Chain&#xa;&#xa;&#xa;Label: &quot;Receive Chain&quot;&#xa;&#xa;&#xa;From left to right:&#xa;&#xa;&#xa;&quot;Receive Antenna&quot;&#xa;&#xa;&#xa;&quot;BPF&quot;&#xa;&#xa;&#xa;&quot;LNA&quot;&#xa;&#xa;&#xa;&quot;IQ Mixer&quot;&#xa;&#xa;&#xa;&quot;LPF&quot;&#xa;&#xa;&#xa;&quot;ADC&quot;&#xa;&#xa;&#xa;Arrow to: &quot;y(n)&quot;&#xa;&#xa;&#xa;Digital SIC Subsystem (below ADC):&#xa;&#xa;&#xa;Input: &quot;x(n)&quot; (from baseband)&#xa;&#xa;&#xa;Arrow to:&#xa;&#xa;&#xa;Block 1: &quot;Digital Linear Cancellation&quot;&#xa;&#xa;&#xa;Arrow to Block 2: &quot;Nonlinear Model (e.g., TACTIC)&quot;&#xa;&#xa;&#xa;Each module has intermediate outputs like &quot;y_SI(n)&quot;, &quot;ŷ_lin(n)&quot;, &quot;ŷ_non(n)&quot;&#xa;&#xa;&#xa;Output goes to subtractor block &quot;Σ&quot;, labeled as: &quot;y_clean(n) = y(n) - ŷ_SI(n)&quot;&#xa;&#xa;&#xa;Design Guidelines:&#xa;&#xa;&#xa;All blocks in rectangular shape&#xa;&#xa;&#xa;Use straight arrows between modules&#xa;&#xa;&#xa;Group Transmit Chain and Receive Chain in dashed boxes&#xa;&#xa;&#xa;Label major signals: x(n), y(n), y_SI(n), y_clean(n)&#xa;&#xa;&#xa;Make overall layout horizontally long, transmit on top, receive on bottom&#xa;&#xa;&#xa;Maintain clean professional style suitable for IEEE paper" style="text;whiteSpace=wrap;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="470" y="770" width="560" height="1650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
