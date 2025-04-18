@@ -54,7 +54,7 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-259" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=13.06;notch=0;rotation=-180;fillColor=#000000;strokeWidth=3;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="681" y="604" width="196" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-261" value="Transmit data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-261" value="Transmit data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="883" y="598" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-264" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
@@ -155,7 +155,7 @@
           <mxGeometry x="908" y="802" width="114" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-330" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;To detector&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="794" width="124" height="30" as="geometry" />
+          <mxGeometry x="1014" y="793" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-332" value="" style="endArrow=classic;html=1;strokeWidth=3;fontSize=15;" edge="1" parent="1" target="Up00aZF9IcshU__NEjj3-316">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
