@@ -67,18 +67,6 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-264" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="10" y="770" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-272" value="PA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="133" y="891" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-273" value="IQ Mixer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="244" y="891" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-274" value="LPF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="364" y="891" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-275" value="DAC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="484" y="891" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-276" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="34.579999999999984" y="851" as="sourcePoint" />
@@ -90,6 +78,9 @@
             <mxPoint x="34" y="851" as="sourcePoint" />
             <mxPoint x="133" y="851" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Up00aZF9IcshU__NEjj3-278" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="143" y="811" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
