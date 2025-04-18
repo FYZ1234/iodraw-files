@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Up00aZF9IcshU__NEjj3-186" value="Digital SIC Module" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2107" y="20" width="966" height="136" as="geometry" />
-        </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-187" value="Receive Chain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1637" y="176" width="1144" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-188" value="Self-Interference Path" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="117" width="217" height="237" as="geometry" />
-        </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-190" value="TransmitChain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="393" width="162" height="49" as="geometry" />
         </mxCell>
