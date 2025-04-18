@@ -145,12 +145,6 @@
             <mxPoint x="680" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-325" value="" style="endArrow=none;html=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeWidth=3;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-316">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="740" as="sourcePoint" />
-            <mxPoint x="623" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-326" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeWidth=3;" edge="1" parent="1" source="Up00aZF9IcshU__NEjj3-317">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="740" as="sourcePoint" />
@@ -169,10 +163,10 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-330" value="To detector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="874" y="794" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-331" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-332" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="610" as="sourcePoint" />
-            <mxPoint x="730" y="560" as="targetPoint" />
+            <mxPoint x="530" y="670" as="sourcePoint" />
+            <mxPoint x="580" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
