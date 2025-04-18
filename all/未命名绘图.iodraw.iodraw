@@ -39,7 +39,7 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-245" value="DAC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="614" y="646" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-254" value="" style="endArrow=none;html=1;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-254" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="184.57999999999998" y="610" as="sourcePoint" />
             <mxPoint x="184.57999999999998" y="530" as="targetPoint" />
