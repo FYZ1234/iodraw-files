@@ -34,7 +34,7 @@
           <mxGeometry x="188.77659574468086" y="88.9051094890511" width="41.48936170212766" height="22.99270072992701" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-243" value="IQ Mixer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
-          <mxGeometry x="231" y="88.91" width="77.02" height="22.99" as="geometry" />
+          <mxGeometry x="247" y="88.91" width="77.02" height="22.99" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-244" value="LPF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="344.36170212765956" y="88.9051094890511" width="41.48936170212766" height="22.99270072992701" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="574.6276595744681" y="189.3065693430657" width="45.638297872340424" height="45.638297872340424" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-319" value="Linear SIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
-          <mxGeometry x="495.79787234042556" y="238.74087591240877" width="51.17021276595745" height="22.99270072992701" as="geometry" />
+          <mxGeometry x="470" y="238.74" width="76.97" height="22.99" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-320" value="Nonlinear SIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="566.3297872340426" y="239.1240875912409" width="65.69148936170212" height="22.99270072992701" as="geometry" />
