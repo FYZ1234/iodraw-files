@@ -124,7 +124,7 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-318" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" source="Up00aZF9IcshU__NEjj3-316" target="Up00aZF9IcshU__NEjj3-317" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-316" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;LS&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=15;strokeWidth=4;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-316" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=15;strokeWidth=4;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="497.8723404255319" y="189.3065693430657" width="45.638297872340424" height="45.638297872340424" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-317" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;TACTIC&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=15;strokeWidth=4;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
@@ -150,11 +150,6 @@
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-328" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=13.06;notch=0;rotation=180;fillColor=#000000;strokeWidth=3;direction=west;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="620.9574468085107" y="208.46715328467155" width="78.82978723404256" height="10.72992700729927" as="geometry" />
-        </mxCell>
-        <mxCell id="VkSjeF6zYl0oLFbWoFp4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="VkSjeF6zYl0oLFbWoFp4-1" source="Up00aZF9IcshU__NEjj3-330" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="601.5957446808508" y="168.61313868613138" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-330" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;To detector&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=19;fontStyle=1" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="699.7853191489361" y="202.33934306569344" width="85.74468085106383" height="22.99270072992701" as="geometry" />
