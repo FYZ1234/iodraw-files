@@ -22,7 +22,7 @@
         <mxCell id="MCBH0T4UwEH68SA_wWk4-6" value="Input [📥 输入部分]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="663" width="7134" height="381" as="geometry" />
         </mxCell>
-        <mxCell id="MCBH0T4UwEH68SA_wWk4-7" value="Input Sequence $\mathbf{x}(n)$ Shape: $(T, 2)$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="MCBH0T4UwEH68SA_wWk4-7" value="Input Sequence $\mathbf{x}(n)$ Shape: $(T, 2)$" style="whiteSpace=wrap;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="855" width="259" height="84" as="geometry" />
         </mxCell>
         <mxCell id="MCBH0T4UwEH68SA_wWk4-8" value="长条矩阵框&#xa;$[\Re{x(n)}, \Im{x(n)}]$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
