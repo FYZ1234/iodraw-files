@@ -33,11 +33,8 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-242" value="PA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="188.77659574468086" y="88.9051094890511" width="41.48936170212766" height="22.99270072992701" as="geometry" />
         </mxCell>
-        <mxCell id="zacbSH0pAOad_eJHJ6Ng-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VkSjeF6zYl0oLFbWoFp4-1" source="Up00aZF9IcshU__NEjj3-243" target="Up00aZF9IcshU__NEjj3-258">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-243" value="IQ Mixer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
-          <mxGeometry x="265.531914893617" y="88.9051094890511" width="41.48936170212766" height="22.99270072992701" as="geometry" />
+          <mxGeometry x="231" y="88.91" width="77.02" height="22.99" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-244" value="LPF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="344.36170212765956" y="88.9051094890511" width="41.48936170212766" height="22.99270072992701" as="geometry" />
