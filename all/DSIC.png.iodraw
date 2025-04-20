@@ -127,13 +127,13 @@
         <mxCell id="Up00aZF9IcshU__NEjj3-316" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=15;strokeWidth=4;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="497.8723404255319" y="189.3065693430657" width="45.638297872340424" height="45.638297872340424" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-317" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;TACTIC&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=15;strokeWidth=4;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-317" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=15;strokeWidth=4;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="574.6276595744681" y="189.3065693430657" width="45.638297872340424" height="45.638297872340424" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-319" value="Linear SIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-319" value="LS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="482" y="238.74" width="76.97" height="22.99" as="geometry" />
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-320" value="Nonlinear SIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
+        <mxCell id="Up00aZF9IcshU__NEjj3-320" value="&lt;b&gt;TACTIC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="557" y="238.12" width="92.02" height="22.99" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-322" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;strokeWidth=3;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" edge="1">
