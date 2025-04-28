@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VkSjeF6zYl0oLFbWoFp4-1" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="VkSjeF6zYl0oLFbWoFp4-1" value="" style="group;fontSize=9;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="10" y="410" width="780" height="262.5" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-263" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;fillColor=none;strokeColor=default;fontFamily=Times New Roman;fontSize=15;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
@@ -58,7 +58,7 @@
           <mxGeometry x="463.98936170212767" y="56.715328467153284" width="135.53191489361703" height="10.72992700729927" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-261" value="Transmit data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=19;fontStyle=1;strokeWidth=1;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
-          <mxGeometry x="603.6702127659574" y="50.583941605839414" width="94.7340425531915" height="22.99270072992701" as="geometry" />
+          <mxGeometry x="603.67" y="50.58" width="136.33" height="22.99" as="geometry" />
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-264" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fontFamily=Times New Roman;strokeWidth=1;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry x="103.72340425531915" y="150.98540145985402" width="34.57446808510638" height="30.65693430656934" as="geometry" />
