@@ -166,15 +166,6 @@
             <mxPoint x="632.0212765957447" y="91.97080291970804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Up00aZF9IcshU__NEjj3-341" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=2;dashed=1;shadow=1;fontFamily=Times New Roman;" parent="VkSjeF6zYl0oLFbWoFp4-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="160" as="sourcePoint" />
-            <mxPoint x="90" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-19.995957446808518" y="341.97503649635036" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-342" value="SI channel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=19;fontFamily=Times New Roman;fontStyle=0;strokeWidth=2;rotation=90;" parent="VkSjeF6zYl0oLFbWoFp4-1" vertex="1">
           <mxGeometry y="46.75182481751825" width="79.52127659574468" height="61.31386861313868" as="geometry" />
         </mxCell>
@@ -202,6 +193,15 @@
             <mxPoint x="179.8936170212766" y="557.956204379562" as="targetPoint" />
             <Array as="points">
               <mxPoint x="152.2340425531915" y="519.6350364963504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Up00aZF9IcshU__NEjj3-341" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=2;dashed=1;shadow=1;fontFamily=Times New Roman;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.519999999999996" y="567.63" as="sourcePoint" />
+            <mxPoint x="159.51999999999998" y="577.63" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="49.52404255319148" y="749.6050364963503" />
             </Array>
           </mxGeometry>
         </mxCell>
