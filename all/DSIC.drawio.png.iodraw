@@ -202,7 +202,7 @@
             <mxPoint x="170" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ybw3Z7huSuXuzVJkPb_6-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;SOI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ybw3Z7huSuXuzVJkPb_6-3">
+        <mxCell id="ybw3Z7huSuXuzVJkPb_6-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;SOI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ybw3Z7huSuXuzVJkPb_6-3">
           <mxGeometry x="-0.0167" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
