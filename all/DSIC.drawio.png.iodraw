@@ -186,13 +186,10 @@
         </mxCell>
         <mxCell id="Up00aZF9IcshU__NEjj3-341" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=2;dashed=1;shadow=1;fontFamily=Times New Roman;" parent="VkSjeF6zYl0oLFbWoFp4-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-30" y="161" as="sourcePoint" />
-            <mxPoint x="79.51999999999998" y="160.95000000000005" as="targetPoint" />
+            <mxPoint x="-19" y="164" as="sourcePoint" />
+            <mxPoint x="90.51999999999998" y="163.95000000000005" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ybw3Z7huSuXuzVJkPb_6-7" value="目标接受信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontSize=19;fontFamily=Times New Roman;fontStyle=0;strokeWidth=2;rotation=0;" vertex="1" parent="VkSjeF6zYl0oLFbWoFp4-1">
-          <mxGeometry x="-52" y="150.99" width="131.52" height="61.31" as="geometry" />
         </mxCell>
         <mxCell id="ybw3Z7huSuXuzVJkPb_6-6" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=2;dashed=1;shadow=1;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
