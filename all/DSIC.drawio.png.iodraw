@@ -202,6 +202,11 @@
             <mxPoint x="90.00000000000003" y="175.33000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ybw3Z7huSuXuzVJkPb_6-2" value="SOI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ybw3Z7huSuXuzVJkPb_6-1">
+          <mxGeometry x="0.1533" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
